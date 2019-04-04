@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L yosino58-rescue:ProMicro-kbd-yosino58-rescue U1
+L yosino58-rescue:ProMicro-BLE U1
 U 1 1 5C510A34
 P 2325 1675
 F 0 "U1" H 2325 2712 60  0000 C CNN
@@ -48,7 +48,7 @@ F 3 "" H 3650 1025 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW7
+L yosino58-rescue:SW_PUSH SW7
 U 1 1 5C510E26
 P 7250 1425
 F 0 "SW7" H 7250 1375 50  0000 C CNN
@@ -70,7 +70,7 @@ F 3 "~" H 7550 1575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW8
+L yosino58-rescue:SW_PUSH SW8
 U 1 1 5C5116E3
 P 7950 1425
 F 0 "SW8" H 7950 1375 50  0000 C CNN
@@ -92,7 +92,7 @@ F 3 "~" H 8250 1575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW9
+L yosino58-rescue:SW_PUSH SW9
 U 1 1 5C511809
 P 8650 1425
 F 0 "SW9" H 8650 1375 50  0000 C CNN
@@ -114,7 +114,7 @@ F 3 "~" H 8950 1575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW10
+L yosino58-rescue:SW_PUSH SW10
 U 1 1 5C511817
 P 9350 1425
 F 0 "SW10" H 9350 1375 50  0000 C CNN
@@ -136,7 +136,7 @@ F 3 "~" H 9650 1575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW11
+L yosino58-rescue:SW_PUSH SW11
 U 1 1 5C51197C
 P 10050 1425
 F 0 "SW11" H 10050 1375 50  0000 C CNN
@@ -158,7 +158,7 @@ F 3 "~" H 10350 1575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW12
+L yosino58-rescue:SW_PUSH SW12
 U 1 1 5C51198A
 P 10750 1425
 F 0 "SW12" H 10750 1375 50  0000 C CNN
@@ -180,7 +180,7 @@ F 3 "~" H 11050 1575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW1
+L yosino58-rescue:SW_PUSH SW1
 U 1 1 5C511EAC
 P 7250 925
 F 0 "SW1" H 7250 875 50  0000 C CNN
@@ -202,7 +202,7 @@ F 3 "~" H 7550 1075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW2
+L yosino58-rescue:SW_PUSH SW2
 U 1 1 5C511EBA
 P 7950 925
 F 0 "SW2" H 7950 875 50  0000 C CNN
@@ -224,7 +224,7 @@ F 3 "~" H 8250 1075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW3
+L yosino58-rescue:SW_PUSH SW3
 U 1 1 5C511EC8
 P 8650 925
 F 0 "SW3" H 8650 875 50  0000 C CNN
@@ -246,7 +246,7 @@ F 3 "~" H 8950 1075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW4
+L yosino58-rescue:SW_PUSH SW4
 U 1 1 5C511ED6
 P 9350 925
 F 0 "SW4" H 9350 875 50  0000 C CNN
@@ -268,7 +268,7 @@ F 3 "~" H 9650 1075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW5
+L yosino58-rescue:SW_PUSH SW5
 U 1 1 5C511EE4
 P 10050 925
 F 0 "SW5" H 10050 875 50  0000 C CNN
@@ -290,7 +290,7 @@ F 3 "~" H 10350 1075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW6
+L yosino58-rescue:SW_PUSH SW6
 U 1 1 5C511EF2
 P 10750 925
 F 0 "SW6" H 10750 875 50  0000 C CNN
@@ -312,7 +312,7 @@ F 3 "~" H 11050 1075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW13
+L yosino58-rescue:SW_PUSH SW13
 U 1 1 5C51227A
 P 7250 1925
 F 0 "SW13" H 7250 1875 50  0000 C CNN
@@ -334,7 +334,7 @@ F 3 "~" H 7550 2075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW14
+L yosino58-rescue:SW_PUSH SW14
 U 1 1 5C512288
 P 7950 1925
 F 0 "SW14" H 7950 1875 50  0000 C CNN
@@ -356,7 +356,7 @@ F 3 "~" H 8250 2075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW15
+L yosino58-rescue:SW_PUSH SW15
 U 1 1 5C512296
 P 8650 1925
 F 0 "SW15" H 8650 1875 50  0000 C CNN
@@ -378,7 +378,7 @@ F 3 "~" H 8950 2075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW16
+L yosino58-rescue:SW_PUSH SW16
 U 1 1 5C5122A4
 P 9350 1925
 F 0 "SW16" H 9350 1875 50  0000 C CNN
@@ -400,7 +400,7 @@ F 3 "~" H 9650 2075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW17
+L yosino58-rescue:SW_PUSH SW17
 U 1 1 5C5122B2
 P 10050 1925
 F 0 "SW17" H 10050 1875 50  0000 C CNN
@@ -422,7 +422,7 @@ F 3 "~" H 10350 2075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW18
+L yosino58-rescue:SW_PUSH SW18
 U 1 1 5C5122C0
 P 10750 1925
 F 0 "SW18" H 10750 1875 50  0000 C CNN
@@ -444,7 +444,7 @@ F 3 "~" H 11050 2075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW19
+L yosino58-rescue:SW_PUSH SW19
 U 1 1 5C512594
 P 7250 2425
 F 0 "SW19" H 7250 2375 50  0000 C CNN
@@ -466,7 +466,7 @@ F 3 "~" H 7550 2575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW20
+L yosino58-rescue:SW_PUSH SW20
 U 1 1 5C5125A2
 P 7950 2425
 F 0 "SW20" H 7950 2375 50  0000 C CNN
@@ -488,7 +488,7 @@ F 3 "~" H 8250 2575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW21
+L yosino58-rescue:SW_PUSH SW21
 U 1 1 5C5125B0
 P 8650 2425
 F 0 "SW21" H 8650 2375 50  0000 C CNN
@@ -510,7 +510,7 @@ F 3 "~" H 8950 2575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW22
+L yosino58-rescue:SW_PUSH SW22
 U 1 1 5C5125BE
 P 9350 2425
 F 0 "SW22" H 9350 2375 50  0000 C CNN
@@ -532,7 +532,7 @@ F 3 "~" H 9650 2575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW23
+L yosino58-rescue:SW_PUSH SW23
 U 1 1 5C5125CC
 P 10050 2425
 F 0 "SW23" H 10050 2375 50  0000 C CNN
@@ -554,7 +554,7 @@ F 3 "~" H 10350 2575 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW24
+L yosino58-rescue:SW_PUSH SW24
 U 1 1 5C5125DA
 P 10750 2425
 F 0 "SW24" H 10750 2375 50  0000 C CNN
@@ -664,7 +664,7 @@ Connection ~ 10350 1225
 Wire Wire Line
 	10350 1225 11050 1225
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW25
+L yosino58-rescue:SW_PUSH SW25
 U 1 1 5C51A620
 P 7950 2925
 F 0 "SW25" H 7950 2875 50  0000 C CNN
@@ -686,7 +686,7 @@ F 3 "~" H 8250 3075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW26
+L yosino58-rescue:SW_PUSH SW26
 U 1 1 5C51A62E
 P 8650 2925
 F 0 "SW26" H 8650 2875 50  0000 C CNN
@@ -708,7 +708,7 @@ F 3 "~" H 8950 3075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW27
+L yosino58-rescue:SW_PUSH SW27
 U 1 1 5C51A63C
 P 9350 2925
 F 0 "SW27" H 9350 2875 50  0000 C CNN
@@ -730,7 +730,7 @@ F 3 "~" H 9650 3075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW28
+L yosino58-rescue:SW_PUSH SW28
 U 1 1 5C51A64A
 P 10050 2925
 F 0 "SW28" H 10050 2875 50  0000 C CNN
@@ -752,7 +752,7 @@ F 3 "~" H 10350 3075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue SW29
+L yosino58-rescue:SW_PUSH SW29
 U 1 1 5C51A658
 P 10750 2925
 F 0 "SW29" H 10750 2875 50  0000 C CNN
@@ -833,7 +833,7 @@ SDA
 Text GLabel 800  1425 0    50   Input ~ 0
 SCL
 $Comp
-L yosino58-rescue:MJ-4PP-9-kbd-yosino58-rescue J1
+L yosino58-rescue:MJ-4PP J1
 U 1 1 5C558952
 P 4700 3325
 F 0 "J1" H 4700 3475 50  0000 C CNN
@@ -844,7 +844,7 @@ F 3 "~" H 4975 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L6
+L yosino58-rescue:SK6812MINI L6
 U 1 1 5C558DB2
 P 9675 4025
 F 0 "L6" H 9675 4287 51  0000 C CNN
@@ -868,7 +868,7 @@ F 3 "" H 10175 3725 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L5
+L yosino58-rescue:SK6812MINI L5
 U 1 1 5C57328C
 P 9175 4025
 F 0 "L5" H 9175 4287 51  0000 C CNN
@@ -879,7 +879,7 @@ F 3 "" H 9175 4025 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L4
+L yosino58-rescue:SK6812MINI L4
 U 1 1 5C57559A
 P 8675 4025
 F 0 "L4" H 8675 4287 51  0000 C CNN
@@ -890,7 +890,7 @@ F 3 "" H 8675 4025 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L3
+L yosino58-rescue:SK6812MINI L3
 U 1 1 5C5765F4
 P 8175 4025
 F 0 "L3" H 8175 4287 51  0000 C CNN
@@ -901,7 +901,7 @@ F 3 "" H 8175 4025 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L2
+L yosino58-rescue:SK6812MINI L2
 U 1 1 5C5787A6
 P 7675 4025
 F 0 "L2" H 7675 4287 51  0000 C CNN
@@ -912,7 +912,7 @@ F 3 "" H 7675 4025 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L1
+L yosino58-rescue:SK6812MINI L1
 U 1 1 5C579812
 P 7175 4025
 F 0 "L1" H 7175 4287 51  0000 C CNN
@@ -1017,7 +1017,7 @@ Wire Wire Line
 	9475 4225 9875 4225
 Connection ~ 9475 4225
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L7
+L yosino58-rescue:SK6812MINI L7
 U 1 1 5C5B2498
 P 7175 4575
 F 0 "L7" H 7175 4313 51  0000 C CNN
@@ -1043,7 +1043,7 @@ Connection ~ 7375 3725
 Wire Wire Line
 	6975 4675 6975 4775
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L8
+L yosino58-rescue:SK6812MINI L8
 U 1 1 5C5D0C1C
 P 7675 4575
 F 0 "L8" H 7675 4313 51  0000 C CNN
@@ -1054,7 +1054,7 @@ F 3 "" H 7675 4575 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L9
+L yosino58-rescue:SK6812MINI L9
 U 1 1 5C5D3BFC
 P 8175 4575
 F 0 "L9" H 8175 4313 51  0000 C CNN
@@ -1065,7 +1065,7 @@ F 3 "" H 8175 4575 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L10
+L yosino58-rescue:SK6812MINI L10
 U 1 1 5C5D6BE5
 P 8675 4575
 F 0 "L10" H 8675 4313 51  0000 C CNN
@@ -1076,7 +1076,7 @@ F 3 "" H 8675 4575 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L11
+L yosino58-rescue:SK6812MINI L11
 U 1 1 5C5D9BCF
 P 9175 4575
 F 0 "L11" H 9175 4313 51  0000 C CNN
@@ -1087,7 +1087,7 @@ F 3 "" H 9175 4575 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L12
+L yosino58-rescue:SK6812MINI L12
 U 1 1 5C5DCBB6
 P 9675 4575
 F 0 "L12" H 9675 4313 51  0000 C CNN
@@ -1188,7 +1188,7 @@ Connection ~ 9875 4225
 Wire Wire Line
 	9875 4225 10125 4225
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L18
+L yosino58-rescue:SK6812MINI L18
 U 1 1 5C62E773
 P 9675 5125
 F 0 "L18" H 9675 5387 51  0000 C CNN
@@ -1199,7 +1199,7 @@ F 3 "" H 9675 5125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L17
+L yosino58-rescue:SK6812MINI L17
 U 1 1 5C62E77A
 P 9175 5125
 F 0 "L17" H 9175 5387 51  0000 C CNN
@@ -1210,7 +1210,7 @@ F 3 "" H 9175 5125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L16
+L yosino58-rescue:SK6812MINI L16
 U 1 1 5C62E781
 P 8675 5125
 F 0 "L16" H 8675 5387 51  0000 C CNN
@@ -1221,7 +1221,7 @@ F 3 "" H 8675 5125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L15
+L yosino58-rescue:SK6812MINI L15
 U 1 1 5C62E788
 P 8175 5125
 F 0 "L15" H 8175 5387 51  0000 C CNN
@@ -1232,7 +1232,7 @@ F 3 "" H 8175 5125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L14
+L yosino58-rescue:SK6812MINI L14
 U 1 1 5C62E78F
 P 7675 5125
 F 0 "L14" H 7675 5387 51  0000 C CNN
@@ -1243,7 +1243,7 @@ F 3 "" H 7675 5125 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L13
+L yosino58-rescue:SK6812MINI L13
 U 1 1 5C62E796
 P 7175 5125
 F 0 "L13" H 7175 5387 51  0000 C CNN
@@ -1362,7 +1362,7 @@ Connection ~ 7975 5325
 Wire Wire Line
 	7975 5325 8375 5325
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L19
+L yosino58-rescue:SK6812MINI L19
 U 1 1 5C6EC645
 P 7175 5675
 F 0 "L19" H 7175 5413 51  0000 C CNN
@@ -1373,7 +1373,7 @@ F 3 "" H 7175 5675 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L20
+L yosino58-rescue:SK6812MINI L20
 U 1 1 5C6EC64C
 P 7675 5675
 F 0 "L20" H 7675 5413 51  0000 C CNN
@@ -1384,7 +1384,7 @@ F 3 "" H 7675 5675 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L21
+L yosino58-rescue:SK6812MINI L21
 U 1 1 5C6EC653
 P 8175 5675
 F 0 "L21" H 8175 5413 51  0000 C CNN
@@ -1395,7 +1395,7 @@ F 3 "" H 8175 5675 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L22
+L yosino58-rescue:SK6812MINI L22
 U 1 1 5C6EC65A
 P 8675 5675
 F 0 "L22" H 8675 5413 51  0000 C CNN
@@ -1406,7 +1406,7 @@ F 3 "" H 8675 5675 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L23
+L yosino58-rescue:SK6812MINI L23
 U 1 1 5C6EC661
 P 9175 5675
 F 0 "L23" H 9175 5413 51  0000 C CNN
@@ -1417,7 +1417,7 @@ F 3 "" H 9175 5675 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L24
+L yosino58-rescue:SK6812MINI L24
 U 1 1 5C6EC668
 P 9675 5675
 F 0 "L24" H 9675 5413 51  0000 C CNN
@@ -1507,7 +1507,7 @@ Connection ~ 7375 5325
 Wire Wire Line
 	7375 5325 7475 5325
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L29
+L yosino58-rescue:SK6812MINI L29
 U 1 1 5C7E621E
 P 9675 6225
 F 0 "L29" H 9675 6487 51  0000 C CNN
@@ -1518,7 +1518,7 @@ F 3 "" H 9675 6225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L28
+L yosino58-rescue:SK6812MINI L28
 U 1 1 5C7E6225
 P 9175 6225
 F 0 "L28" H 9175 6487 51  0000 C CNN
@@ -1529,7 +1529,7 @@ F 3 "" H 9175 6225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L27
+L yosino58-rescue:SK6812MINI L27
 U 1 1 5C7E622C
 P 8675 6225
 F 0 "L27" H 8675 6487 51  0000 C CNN
@@ -1540,7 +1540,7 @@ F 3 "" H 8675 6225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L26
+L yosino58-rescue:SK6812MINI L26
 U 1 1 5C7E6233
 P 8175 6225
 F 0 "L26" H 8175 6487 51  0000 C CNN
@@ -1551,7 +1551,7 @@ F 3 "" H 8175 6225 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L yosino58-rescue:SK6812MINI-kbd-yosino58-rescue L25
+L yosino58-rescue:SK6812MINI L25
 U 1 1 5C7E623A
 P 7675 6225
 F 0 "L25" H 7675 6487 51  0000 C CNN
@@ -1983,7 +1983,7 @@ Wire Wire Line
 Text GLabel 5800 3400 2    50   Input ~ 0
 data
 $Comp
-L yosino58-rescue:SW_PUSH-kbd-yosino58-rescue RSW1
+L yosino58-rescue:SW_PUSH RSW1
 U 1 1 5D0EC958
 P 5050 975
 F 0 "RSW1" H 5050 1125 50  0000 C CNN
@@ -2153,7 +2153,7 @@ NoConn ~ 1625 3600
 Wire Wire Line
 	1625 1125 1625 1225
 $Comp
-L yosino58-rescue:ProMicro-kbd-yosino58-rescue U2
+L yosino58-rescue:ProMicro-BLE U2
 U 1 1 5C614951
 P 2325 3250
 F 0 "U2" H 2325 4287 60  0000 C CNN
