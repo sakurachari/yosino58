@@ -201,7 +201,7 @@ qmkファームウェアは[公式][7-2]からGETしてください。
 yosino58のデフォルトキーマップを書き込むにはqmk_firmwareのフォルダ階層で以下を実行します。  
 
 ```
-make lily58:default:avrdude 
+make yosino58:default:avrdude 
 ```
 
 Detecting USB port, reset your controller now... と表示されたらキーボード上のリセットボタンを押すと書き込みが始まります。  
