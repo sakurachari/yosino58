@@ -196,20 +196,23 @@
 
 QMKのビルド環境の構築などは[公式ドキュメント][7-1]を参考にするか、他の方のビルドガイドなどを参考にしてください。
 
-yosino58のファームウェアは以下に置いておきます。
-https://github.com/sakurachari/qmk_firmware/tree/master/keyboards/yosino58
+qmkファームウェアは[公式][7-2]からGETしてください。  
+
+yosino58のデフォルトキーマップを書き込むにはqmk_firmwareのフォルダ階層で以下を実行します。  
+
+```
+make lily58:default:avrdude 
+```
+
+Detecting USB port, reset your controller now... と表示されたらキーボード上のリセットボタンを押すと書き込みが始まります。  
+もう片方のキーボードにも同じように書き込みを行って下さい。
 
 ### キーマップのカスタマイズ
 /keymaps/default/を参考にkeymap.cを編集します。
-キーコードなどは[ここ][7-2]を参考にしてください。
-
-
-
-
-
-
+キーコードなどは[ここ][7-3]を参考にしてください。
 
 [7-1]:https://docs.qmk.fm/#/
-[7-2]:https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
+[7-2]:https://github.com/qmk/qmk_firmware/
+[7-3]:https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
 
 ---
